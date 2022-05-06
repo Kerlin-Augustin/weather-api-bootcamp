@@ -1,0 +1,98 @@
+*{
+  box-sizing: border-box;
+}
+
+body{
+  margin: 0;
+}
+
+section{
+  text-align: center;
+  /* padding: 300px; */
+  
+}
+
+.google{
+  display: flex;
+  justify-content: center;
+  font-size: 50px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin: 10% 0 0 0;
+}
+.google:hover{
+  display: flex;
+  justify-content: center;
+  font-size: 50px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin: 10% 0 0 0;
+  background: url(sunrise.gif);
+}
+
+input{
+  width: 46%;
+}
+
+.first{
+  color: blue;
+}
+.second{
+  color: red;
+}
+.third{
+  color: rgb(230, 230, 0);
+}
+.fourth{
+  color: blue;
+}
+.fifth{
+  color: green;
+}
+.sixth{
+  color: red;
+}
+.seventh{
+  color: green;
+}
+.eighth{
+  color: green;
+}
+.ninth{
+  color: rgb(230, 230, 0);
+}
+.tenth{
+  color: blue;
+}
+.eleventh{
+  color: red;
+}
+.twelvth{
+  color: blue;
+}
+.thirteenth{
+  color: blue;
+}
+.fourteenth{
+  color: green;
+}
+.fifteenth{
+  color: rgb(230, 230, 0);
+}
+.sixteenth{
+  color: red;
+}
+.seventeenth{
+  color: green;
+}
+.eighteenth{
+  color: blue;
+}
+.ninteenth{
+  color: red;
+}
+.twentith{
+  color: blue;
+}
+.twenty-first{
+  color: green;
+}
+
