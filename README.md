@@ -1,22 +1,17 @@
 # 🌦 Project: Weather API
 
-### Goal: Enable your user to enter a city + country and return the temperature in Fahrenheit
+This project lets you find the current temperature of a state or city.
 
-### How to submit your code for review:
+**Link to project:** https://kerlinaugustin-weather-api.netlify.app/
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
+![sunrise](https://user-images.githubusercontent.com/102834611/169357726-0c6e59e3-46c9-48af-b765-c21ec2cb974b.gif)
 
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+## How It's Made:
+
+**Tech used:** HTML, CSS, JavaScript
+
+I used a fetch function inside of another function to get a weather api whenever you put a state name or city name in the input. 
+
+## Lessons Learned:
+
+I learned that a lot of APIs are deprecated. 
